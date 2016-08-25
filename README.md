@@ -156,6 +156,7 @@
 - [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。 ![Freeware][Freeware Icon]
 - [QT Creator](https://www.qt.io/ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。![Freeware][Freeware Icon]
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一个图形工具的集合，提供一个与你使用的版本控制系统简单而直接的访问方式。 [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE。Eclipse 的 Arduino IDE。我很喜欢它。 [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) ![Freeware][Freeware Icon]
 - [Sqlite Browser](http://sqlitebrowser.org/) - 可视化创建，管理，以及查看 sqlite 数据库文件。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [Swift](https://swift.org/download/) - Swift 是一个通用编程语言，基于更现代的安全，性能，和软件设计模式为目标设计。 ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - Ubuntu 官方 SDK。 ![Freeware][Freeware Icon]
@@ -191,6 +192,7 @@
 - [Celestia](http://celestiaproject.net/) - 免费的空间模拟器，让你在三维空间中探索我们的宇宙。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
 - [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是一款在 Linux 上绘制化学结构的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
 - [Epoptes](http://www.epoptes.org/) - 一款开源的计算机实验室管理和监视工具。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
+- [GAP](http://www.gap-system.org/) - 计算离散代数领域内的一个优秀系统,主要专注于计算群论的计算。 [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap)![Freeware][Freeware Icon]
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
 - [Geogebra](https://www.geogebra.org/download) - 图形计算器，支持函数，几何，代数，微积分，统计以及 3D 数学。 ![Freeware][Freeware Icon]
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费打字教学软件 [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
@@ -199,12 +201,15 @@
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是一个 Linux 上的元素周期表应用。![Freeware][Freeware Icon]
 - [ITalc](https://github.com/iTALC/italc/releases) - iTALC 是一款为老师准备的实用并且强大的教学工具。它让你有多种方式查看和控制你网络中的其它计算机。 [![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
 - [KDE Edu Suite](https://edu.kde.org/) - 基于 KDE 技术的免费教育软件。![Freeware][Freeware Icon]
+- [Ktouch](https://github.com/KDE/ktouch) - KTouch 是一款学习和练习触摸输入的程序。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch)![Freeware][Freeware Icon]
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple 是一款数学软件，它结合了世界上最强大的数学引擎以及一个让它十分易于分析，探索，可视化以及解决数学问题的界面。
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB 平台专为剞劂工程和科学问题优化。MATLAB 让你的想法不仅仅停留在桌面。你可以在巨大的数据集上进行你的分析并按比例增加你的集群和云。
 - [Maxima](http://maxima.sourceforge.net/) - Maxima 是一个处理符号和数值表达式的系统，包括微分，积分，泰勒级数，拉普拉斯变换，常微分方程，线性方程组....  [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)![Freeware][Freeware Icon]
 - [Moodle](https://download.moodle.org/) - Course management system for online learning.[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
 - [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide 是一款 2D 几何软件：数据由描述形式化的几何约束动态定义。![Freeware][Freeware Icon]
 - [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
+- [PARI/GP](http://pari.math.u-bordeaux.fr/) - 一种针对数论中的快速计算(大数分解，代数数论，椭圆曲线...) 而设计的广泛应用的计算机代数系统。 [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary)![Freeware][Freeware Icon]
+- [SageMath](http://www.sagemath.org/) - 一个覆盖许多数学功能的应用软件，包括代数、组合数学、计算数学和微积分。 [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/)![Freeware][Freeware Icon]
 - [Scipy](https://scipy.org/install.html) - SciPy 是一个基于 Python 的开源软件生态系统，面向数学，科学，以及工程学。[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)![Freeware][Freeware Icon]
 - [Scratch](https://scratch.mit.edu/) - 有了 Scratch，你可以编程你自己的互动故事，游戏，以及动画——并且在在线社区和其他人分享你的创造。![Freeware][Freeware Icon]
 - [Stellarium](http://www.stellarium.org/) - Stellarium 是一个为你电脑准备的免费开源天文馆。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
@@ -297,6 +302,7 @@
 - [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 - [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端。 [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)![Freeware][Freeware Icon]
 - [WPS office](http://wps-community.org/) - Linux 上的最佳办公套件之一。![Freeware][Freeware Icon]
 
 ### 生产力
@@ -427,6 +433,7 @@
 
 ### 其它
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer 是一个让你可以配置 GRUB2/BURG 设置和启动项的图形化界面。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
+- [Infinality bundle & fonts](https://bohoomil.com/) - Infinality bundle & fonts 是一个开源项目，致力于让 Linux 管理员和个人用户有个轻松的方式改善字体渲染质量。 ![Freeware][Freeware Icon]
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - 给所有人的 A.I. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
 
 ## 命令行工具
@@ -616,7 +623,8 @@
  31. [tnga](https://github.com/tnga)
  32. [hg8](https://github.com/hg8)
  33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
- 34. *在 @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com 上每个提出建议和赞赏的人*
+ 34. [alim0x](https://github.com/alim0x)
+ 35. *在 @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com 上每个提出建议和赞赏的人*
  ...
 
  (*以上列表更新于 15th August 2016*)
